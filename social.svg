@@ -40,7 +40,7 @@
             <rect id="Rectangle-13" fill="#F0F0F0" x="25" y="68" width="202" height="10" rx="5"></rect>
             <rect id="Rectangle-13-Copy" fill="#F0F0F0" x="25" y="86" width="108" height="10" rx="5"></rect>
             <rect id="Rectangle-14" fill="#F0EDFE" x="25" y="111" width="196" height="49" rx="8"></rect>
-            <text id="Create-Groups" font-family="Circular-Black, Circular" font-size="20" font-weight="700" fill="#7754F8">
+            <text id="Create-Groups" font-family="circular-bold" font-size="20" font-weight="700" fill="#7754F8">
                 <tspan x="54" y="142">Create Groups</tspan>
             </text>
         </g>
