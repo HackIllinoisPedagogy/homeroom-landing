@@ -2,6 +2,8 @@
 
 Visit the website at https://pguduguntla.github.io/homeroom-landing/
 
+View screenshots of the website at https://docs.google.com/document/d/15xm96xjpgfwtp2_coQUYQIgOiDc35nwZ2vghLRYG-xU/edit?usp=sharing
+
 
 This is the landing page developed for our application, Homeroom. Homeroom is a end-to-end service for both teachers and students to stay more connected through virtual learning.
 
