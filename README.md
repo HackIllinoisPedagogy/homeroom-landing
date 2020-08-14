@@ -1,6 +1,6 @@
 # Homeroom Landing Page
 
-Visit the website at https://pguduguntla.github.io/homeroom-landing/
+Visit the website at https://hackillinoispedagogy.github.io/homeroom-landing/
 
 View screenshots of the website at https://docs.google.com/document/d/15xm96xjpgfwtp2_coQUYQIgOiDc35nwZ2vghLRYG-xU/edit?usp=sharing
 
